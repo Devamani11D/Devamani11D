@@ -6,7 +6,7 @@
 
 ## 🌟 Projects
 
-### 1. [⚡ Salt-App-Kickstart](https://github.com/your-repo/salt-app-kickstart)
+### 1. [⚡ Salt-App-Kickstart](https://github.com/Devamani11D/salt-app-kickstart)
 A powerful **CLI tool** designed to help developers kickstart their applications using the **Salt Design System** and **React**. This tool simplifies the setup process by providing ready-to-use templates, ensuring a consistent design language and an efficient workflow.
 
 - **Technologies Used**: Node.js, React, Salt Design System
@@ -14,7 +14,7 @@ A powerful **CLI tool** designed to help developers kickstart their applications
 
 >  Check out the project [here](https://github.com/Devamani11D/salt-app-kickstart) 
 
-### 2. [📚 Library Management System](https://github.com/your-repo/library-management-system)
+### 2. [📚 Library Management System](https://github.com/Devamani11D/library-management-system)
 Developed a comprehensive library management system using **C++** and **Data Structures & Algorithms** (DSA). This system effectively manages books, users, and transactions, offering a streamlined solution for library operations.
 
 - **Technologies Used**: C++, DSA
