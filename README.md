@@ -38,6 +38,9 @@ An **IoT-based attendance system** utilizing **NodeMCU**, **Fingerprint Sensor**
 - **Cloud Technologies**: Currently learning **Google Cloud Platform** for scalable and efficient cloud solutions.
 - **Open Source Contribution**: I love contributing to open-source projects and collaborating with a diverse community of developers.
 
+## Badges:
+[![An image of @devamani11d's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devamani11d)](https://holopin.io/@devamani11d)
+
 ## 🤝 Let's Connect!
 
 - **LinkedIn**: [Duddekunta Devamani](https://www.linkedin.com/ddevamani)
