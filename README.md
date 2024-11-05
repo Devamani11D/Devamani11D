@@ -41,11 +41,17 @@ An **IoT-based attendance system** utilizing **NodeMCU**, **Fingerprint Sensor**
 ## Badges:
 [![An image of @devamani11d's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devamani11d)](https://holopin.io/@devamani11d)
 
-## 🤝 Let's Connect!
 
-- **LinkedIn**: [Duddekunta Devamani](https://www.linkedin.com/ddevamani)
-- **GitHub**: [Duddekunta Devamani Github Profile](https://github.com/Devamani11D)
-- **Email**: [duddekuntadevamani@gmail.com](mailto:duddekuntadevamani@gmail.com)
+
+<h1 align="left">🤝Connect with me:</h1>
+<p align="left">
+    <a href="https://www.linkedin.com/in/ddevamani/" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Duddekunta Devamani" height="30" width="40" />
+    </a>
+    <a href="https://leetcode.com/u/devamani2718/" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Duddekunta Devamani" height="30" width="40" />
+    </a>
+</p>
 
 Feel free to reach out if you'd like to **collaborate**, **discuss projects**, or just **connect**! I'm always open to new opportunities and challenges.
 
