@@ -41,7 +41,8 @@ An **IoT-based attendance system** utilizing **NodeMCU**, **Fingerprint Sensor**
 ## Badges:
 [![An image of @devamani11d's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devamani11d)](https://holopin.io/@devamani11d)
 
-
+<h1> My Github Readme Stats </h1>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=Devamani11D&show_icons=true&locale=en" alt="GitHub Stats"/>
 
 <h1 align="left">🤝Connect with me:</h1>
 <p align="left">
