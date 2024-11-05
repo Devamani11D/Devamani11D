@@ -49,7 +49,7 @@ An **IoT-based attendance system** utilizing **NodeMCU**, **Fingerprint Sensor**
     <a href="https://www.linkedin.com/in/ddevamani/" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Duddekunta Devamani" height="30" width="40" />
     </a>
-    <a href="https://leetcode.com/u/devamani2718/" target="_blank">
+    <a href="https://leetcode.com/u/devamani_2718/" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Duddekunta Devamani" height="30" width="40" />
     </a>
 </p>
